@@ -24,14 +24,14 @@ A place for documenting, sharing, and keep track of my learning journey. It serv
 | :------: | :------------------------------------------------: | :-------------------: | :----------: |
 | Jul 2023 | [Full-Stack Javascript Developer : Website Travel] | [buildwithanggga.com] |
 
-[//]: # "Reference links to courses"
+[//]: # "Reference links to course"
 [Full-Stack Javascript Developer : Website Travel]: https://buildwithangga.com/kelas/full-stack-javascript-developer-website-travel
-[//]: # "Reference links to courses tutor"
+[//]: # "Reference links to course tutor"
 [buildwithanggga.com]: https://buildwithangga.com/
 
 ---
 
-## Youube Videos
+## Youtube Videos
 
 |                                              Title                                               |     Channel     |
 | :----------------------------------------------------------------------------------------------: | :-------------: |
