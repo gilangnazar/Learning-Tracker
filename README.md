@@ -28,3 +28,16 @@ A place for documenting, sharing, and keep track of my learning journey. It serv
 [Full-Stack Javascript Developer : Website Travel]: https://buildwithangga.com/kelas/full-stack-javascript-developer-website-travel
 [//]: # "Reference links to courses tutor"
 [buildwithanggga.com]: https://buildwithangga.com/
+
+---
+
+## Youube Videos
+
+|                                              Title                                               |     Channel     |
+| :----------------------------------------------------------------------------------------------: | :-------------: |
+| [Setting up vite, React, TypeScript, eslint, prettier, vitest, testing-library and react-router] | [Coding Garden] |
+
+[//]: # "Reference links to Youtube Title"
+[Setting up vite, React, TypeScript, eslint, prettier, vitest, testing-library and react-router]: https://youtu.be/cchqeWY0Nak
+[//]: # "Reference links to Youtube Channel"
+[Coding Garden]: https://www.youtube.com/@CodingGarden
